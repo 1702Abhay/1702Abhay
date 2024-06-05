@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Abhay kumar
-- 👀 I’m interested in Buisiness Analytics,Product Analytics,Data Analytics
-- 🌱 I’m currently learning Python,SQL,Microsoft Excell,Machine Learning,PowerBI, Tableau
-- 📫 How to reach me Email-abhaykumar17021@gmail.com
+👋 Hi, I’m Abhay Kumar  
+👀 Interested in Business, Product, and Data Analytics  
+🌱 Proficient in Python, SQL, Excel, Machine Learning, Power BI  
+🌱 Currently learning Tableau  
+📫 Reach me at: abhaykumar17021@gmail.com  
+
 
 
 <!---
